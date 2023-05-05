@@ -34,6 +34,8 @@ body{
     font-size: 20px;
 }
 .hobbies-class ol{
+    display: flex;
+    flex-direction: column;
     font-size: 20px;
 
 }
